@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/APPLECOMS/Desktop/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/32c66f71663e4e1f992441959c4aca57/artifacts
+end_time: 1707633202022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32c66f71663e4e1f992441959c4aca57
+run_name: mercurial-hawk-652
+run_uuid: 32c66f71663e4e1f992441959c4aca57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707633187814
+status: 3
+tags: []
+user_id: APPLECOMS
